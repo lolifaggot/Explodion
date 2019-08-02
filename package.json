@@ -12,6 +12,7 @@
     "ascii-art": "^1.5.1",
     "assets": "^3.0.1",
     "discord.js": "^11.3.2",
+    "klasa": "^0.4.0",
     "loader": "^2.1.1",
     "lodash.get": "^4.4.2",
     "lodash.set": "^4.3.2",
